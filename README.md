@@ -8,7 +8,7 @@ I design and ship complete systems - software, embedded hardware, and the machin
 
 ### 🏗️ Projects Worked On
 
-**[Beryl's Beauty Mark — Salon Booking, Inventory & Payments Platform](https://github.com/Enock841/TEAM-DUNAMIS)**
+**[Beryl's Beauty Mark — Salon Booking, Inventory & Payments Platform](https://github.com/djangmahprince/salon-booking-platform)**
 Project Manager, Team Dunamis. A full-stack MVP for a real client: online booking with category-level daily caps, product catalogue and checkout, live Paystack payments, and an admin dashboard covering services, orders, customers, and analytics. Built and shipped from requirements gathering through a client-tested, deployed product — React + TypeScript (Vite, Tailwind), Node.js/Express REST API, PostgreSQL (Supabase), JWT auth, Cloudinary media, deployed on Vercel + Render.
 
 **[AI-Based Intelligent Traffic Congestion Prediction & Control System](https://github.com/djangmahprince/Adaptative-Traffic-System)**
